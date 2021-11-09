@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 343b0eafbe89c794fbb1864e49b7bc0a, type: 3}
+  m_Name: Questons
+  m_EditorClassIdentifier: 
+  questionSets:
+  - level: 0
+    questions:
+    - questionType: 0
+      textQuestion: Is Water Wet?
+      imageQuestion: {fileID: 0}
+      audioQuestion: {fileID: 0}
+      correctAnswer: Yes
+      answerChoices:
+      - Yes
+      - No
+    - questionType: 1
+      textQuestion: Name the Brand of the Phone
+      imageQuestion: {fileID: 21300000, guid: 6ccf1e64fb1b0ab45a5b047eb41ccef9, type: 3}
+      audioQuestion: {fileID: 0}
+      correctAnswer: Apple
+      answerChoices:
+      - Samsung
+      - Google
+      - Apple
+      - Huawei
+  - level: 1
+    questions:
+    - questionType: 2
+      textQuestion: What is the name of this song?
+      imageQuestion: {fileID: 0}
+      audioQuestion: {fileID: 8300000, guid: 8c22e5e00cf1909439893e11d34a48e7, type: 3}
+      correctAnswer: Disfigure Blank
+      answerChoices:
+      - Century
+      - Hotel California
+      - Disfigure Blank

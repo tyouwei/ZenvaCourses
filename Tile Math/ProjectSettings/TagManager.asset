@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - ProblemTube
+  - Floor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Jetpack
+    uniqueID: 1176426217
+    locked: 0
+  - name: Player
+    uniqueID: 2436220097
+    locked: 0
+  - name: Obstacle
+    uniqueID: 4144447953
+    locked: 0
+  - name: Ship
+    uniqueID: 2589050365
+    locked: 0
+  - name: UI
+    uniqueID: 3420122885
+    locked: 0
